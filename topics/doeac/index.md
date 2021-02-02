@@ -2,7 +2,7 @@
 aliases: doeac, doeac-cicd-pipeline, doeac-pipeline-cicd, doeac-pipeline
 created_by: tiny-dancer
 display_name: doeac
-logo: doeac.png
+logo: logo.png
 related: docker,ci,cd,terraform,iac,eac
 released: Febuary 1, 2021
 short_description: Doeac is a 'do everything as code' community with a registry for discovering cicd pipelines as code. 
